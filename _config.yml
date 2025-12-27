@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Wuhan, China"
-site_theme               : "contrast" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "dirt" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "🎉 Welcome! 👋"
 title_separator          : "-"
 name                     : &name "Weiyao Cheng"
@@ -16,7 +16,7 @@ description              : &description "Your Name's academic portfolio"   # Upd
 url                      : https://cwylcu080903.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : " cwylcu080903/cwylcu080903.github.io "
+repository               : "cwylcu080903/cwylcu080903.github.io "
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Wuhan, China"
-  employer         : "Red Brick University"
+  employer         : "Huazhong University of Science and Technology"
   uri              : # URL
   email            : "weiyao_cheng@163.com" 
 
