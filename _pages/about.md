@@ -9,6 +9,10 @@ redirect_from:
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
+I was born in Jining city, Shandong province, China in 2002. I received B.Eng.degree in Network Engineering from [Liaocheng University](https://www.lcu.edu.cn/), Liaocheng, China in 2025. In 2024, I obtained exemption from the postgraduate entrance examination. Currently, I am pursuing my Ph.D. degree in School of Mechanical Science and Engineering, [Huazhong University of Science and Technology](https://www.hust.edu.cn/).  My Ph.D.’s supervisor is [Prof. Chaoyong Zhang](https://mse.hust.edu.cn/info/1143/1376.htm). My bachelor’s supervisor is [Assoc Prof. Leilei Meng](https://cs.lcu.edu.cn/xygk/szdw/431879.htm). 
+My research interests include shop scheduling, mathematical modelling, deep reinforcement learning, evolutionary computation, and deep reinforcement learning.
+
+
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
