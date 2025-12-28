@@ -14,14 +14,22 @@ Educations
 - **09/2025 – Present**: Ph.D.Eng. student in School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan
 - **09/2021 – 07/2025**: B.Eng. student in School of Computer Science, Liaocheng University, Liaocheng
 
-Getting started
+Journal Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+---2025---
+[1] **Cheng, W.**, Meng, L.*, Zhang, B., Gao, K., & Sang, H. (2025). <span style="color: #2c3e50;">Imitation Learning-Assisted Evolutionary Algorithm for Energy-Efficient Flexible Job Shop Scheduling Problem with Automated Guided Vehicles.</span> <span style="color: #2980b9;">IEEE Transactions on Evolutionary Computation</span> (SCI Q1, IF=12) — (First Author)
+
+[2] Meng, L.*, **Cheng, W.***, Zhang, C., Gao, K., Zhang, B., & Ren, Y. (2025). <span style="color: #2c3e50;">Novel CP Models and CP-Assisted Meta-Heuristic Algorithm for Flexible Job Shop Scheduling Benchmark Problem with Multi-AGV.</span> <span style="color: #2980b9;">IEEE Transactions on Systems, Man, and Cybernetics: Systems</span> (SCI Q1, IF=8.7) — (Co-Corresponding Author)
+
+[3] **Cheng, W.**, Zhang, C., Meng, L.*, Gao, K., Zhang, B., & Sang, H. (2025). <span style="color: #2c3e50;">A Cooperative Agent Deep Reinforcement Learning Framework for Solving Flexible Job Shop Scheduling Problem with Automated Guided Vehicles.</span> <span style="color: #2980b9;">Expert Systems with Applications</span>, 128142 (SCI Q1, IF=7.5) — (First Author)
+
+[4] **Cheng, W.**, Zhang, C., Meng, L.*, Gao, K., Zhang, B., & Sang, H. (2025). <span style="color: #2c3e50;">Deep Reinforcement Learning for Solving Efficient and Energy-Saving Flexible Job Shop Scheduling Problem with Multi-AGV.</span> <span style="color: #2980b9;">Computers & Operations Research</span>, 181, 107087. (SCI Q1, IF=4.3) — (First Author)
+
+[5] **Cheng, W.**, Meng, L.*, Zhang, B., Gao, K., & Sang, H. (2025). <span style="color: #2c3e50;">Collaborative Multi-CP Model and Meta-Feedback Learning-Assisted Matheuristic for Solving the Flexible Job Shop Scheduling Problem with Sequence-Dependent Setup Times.</span> <span style="color: #2980b9;">Swarm and Evolutionary Computation</span>, 99, 102173. (SCI Q1, IF=8.5) — (First Author)
+
+[6] **Cheng, W.**, Meng, L.*, Zhang, Y., Zhang, C.*, Zhang, B., Sang, H. (2025). <span style="color: #2c3e50;">A novel Constraint Programming-Assisted evolutionary algorithm with deep Q-network for flexible job shop scheduling problem with robot constraints.</span> <span style="color: #2980b9;">Computers & Industrial Engineering</span>. (SCI Q1, IF=6.5) — (First Author)
+
+
 
 Site-wide configuration
 ------
