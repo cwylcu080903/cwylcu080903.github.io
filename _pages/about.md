@@ -27,4 +27,4 @@ Journal Publications
 
 - **[5]** **Cheng, W.**, Meng, L.*, Zhang, B., Gao, K., & Sang, H. (2025). <span style="color: #00008B;">Collaborative Multi-CP Model and Meta-Feedback Learning-Assisted Matheuristic for Solving the Flexible Job Shop Scheduling Problem with Sequence-Dependent Setup Times.</span> <i style="color: #8B0000;">Swarm and Evolutionary Computation</i>, 99, 102173. (SCI Q1, IF=8.5)
 
-[6] <b>Cheng, W.</b>, Meng, L.*, Zhang, Y., Zhang, C.*, Zhang, B., Sang, H. (2025). <span style="color: #00008B;">A novel Constraint Programming-Assisted evolutionary algorithm with deep Q-network for flexible job shop scheduling problem with robot constraints.</span> <i style="color: #8B0000;">Computers & Industrial Engineering</i>. (SCI Q1, IF=6.5)
+- **[6]** **Cheng, W.**, Meng, L.\*, Zhang, Y., Zhang, C.\*, Zhang, B., Sang, H. (2025). <span style="color: #00008B;">A novel Constraint Programming-Assisted evolutionary algorithm with deep Q-network for flexible job shop scheduling problem with robot constraints.</span> <i style="color: #8B0000;">Computers & Industrial Engineering</i>. (SCI Q1, IF=6.5)
