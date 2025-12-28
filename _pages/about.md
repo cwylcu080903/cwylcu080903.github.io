@@ -19,7 +19,7 @@ Journal Publications
 ---2025---<br><br>
 [1] **Cheng, W.**, Meng, L.*, Zhang, B., Gao, K., & Sang, H. (2025). <span style="color: #00008B;">Imitation Learning-Assisted Evolutionary Algorithm for Energy-Efficient Flexible Job Shop Scheduling Problem with Automated Guided Vehicles.</span> <i style="color: #8B0000;">IEEE Transactions on Evolutionary Computation</i> (SCI Q1, IF=12)
 
-[2] Meng, L.*, **Cheng, W.***, Zhang, C., Gao, K., Zhang, B., & Ren, Y. (2025). <span style="color: #00008B;">Novel CP Models and CP-Assisted Meta-Heuristic Algorithm for Flexible Job Shop Scheduling Benchmark Problem with Multi-AGV.</span> <i style="color: #8B0000;">IEEE Transactions on Systems, Man, and Cybernetics: Systems</i> (SCI Q1, IF=8.7)
+[2] Meng, L.*, **Cheng, W.**&#42, Zhang, C., Gao, K., Zhang, B., & Ren, Y. (2025). <span style="color: #00008B;">Novel CP Models and CP-Assisted Meta-Heuristic Algorithm for Flexible Job Shop Scheduling Benchmark Problem with Multi-AGV.</span> <i style="color: #8B0000;">IEEE Transactions on Systems, Man, and Cybernetics: Systems</i> (SCI Q1, IF=8.7)
 
 [3] **Cheng, W.**, Zhang, C., Meng, L.*, Gao, K., Zhang, B., & Sang, H. (2025). <span style="color: #00008B;">A Cooperative Agent Deep Reinforcement Learning Framework for Solving Flexible Job Shop Scheduling Problem with Automated Guided Vehicles.</span> <i style="color: #8B0000;">Expert Systems with Applications</i>, 128142 (SCI Q1, IF=7.5)
 
