@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 &nbsp;I was born in Jining city, Shandong province, China in 2002. I received B.Eng.degree in Network Engineering from <a href="https://www.lcu.edu.cn/" style="color: #00008B;">Liaocheng University</a>, Liaocheng, China in 2025. In 2024, I obtained exemption from the postgraduate entrance examination. Currently, I am pursuing my Ph.D. degree in School of Mechanical Science and Engineering, <a href="https://www.hust.edu.cn/" style="color: #00008B;">Huazhong University of Science and Technology</a>.  My Ph.D.'s supervisor is <a href="https://mse.hust.edu.cn/info/1143/1376.htm" style="color: #00008B;">Prof. Chaoyong Zhang</a>. My bachelor's supervisor is <a href="https://cs.lcu.edu.cn/xygk/szdw/431879.htm" style="color: #00008B;">Assoc Prof. Leilei Meng</a>. 
-&nbsp;My research interests include shop scheduling, mathematical modelling, deep reinforcement learning, evolutionary computation, and deep reinforcement learning.
+&nbsp;My research interests include shop scheduling, mathematical modelling, evolutionary computation, and deep reinforcement learning.
 
 Educations
 ======
@@ -19,7 +19,7 @@ Journal Publications
 ---2025---<br><br>
 [1] **Cheng, W.**, Meng, L.*, Zhang, B., Gao, K., & Sang, H. (2025). <span style="color: #00008B;">Imitation Learning-Assisted Evolutionary Algorithm for Energy-Efficient Flexible Job Shop Scheduling Problem with Automated Guided Vehicles.</span> <i style="color: #8B0000;">IEEE Transactions on Evolutionary Computation</i> (SCI Q1, IF=12)
 
-[2] Meng, L.*, <strong>Cheng, W.</strong>*, Zhang, C., Gao, K., Zhang, B., & Ren, Y. (2025). <span style="color: #00008B;">Novel CP Models and CP-Assisted Meta-Heuristic Algorithm for Flexible Job Shop Scheduling Benchmark Problem with Multi-AGV.</span> <i style="color: #8B0000;">IEEE Transactions on Systems, Man, and Cybernetics: Systems</i> (SCI Q1, IF=8.7) — (Co-Corresponding Author)
+[2] Meng, L.*, **Cheng, W.**\*, Zhang, C., Gao, K., Zhang, B., & Ren, Y. (2025). <span style="color: #00008B;">Novel CP Models and CP-Assisted Meta-Heuristic Algorithm for Flexible Job Shop Scheduling Benchmark Problem with Multi-AGV.</span> <i style="color: #8B0000;">IEEE Transactions on Systems, Man, and Cybernetics: Systems</i> (SCI Q1, IF=8.7) — (Co-Corresponding Author)
 
 [3] **Cheng, W.**, Zhang, C., Meng, L.*, Gao, K., Zhang, B., & Sang, H. (2025). <span style="color: #00008B;">A Cooperative Agent Deep Reinforcement Learning Framework for Solving Flexible Job Shop Scheduling Problem with Automated Guided Vehicles.</span> <i style="color: #8B0000;">Expert Systems with Applications</i>, 128142 (SCI Q1, IF=7.5)
 
