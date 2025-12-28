@@ -17,17 +17,17 @@ Educations
 Journal Publications
 ======
 ---2025---
-[1] **Cheng, W.**, Meng, L.*, Zhang, B., Gao, K., & Sang, H. (2025). <span style="color: #2c3e50;">Imitation Learning-Assisted Evolutionary Algorithm for Energy-Efficient Flexible Job Shop Scheduling Problem with Automated Guided Vehicles.</span> <span style="color: #2980b9;">IEEE Transactions on Evolutionary Computation</span> (SCI Q1, IF=12) — (First Author)
+[1] **Cheng, W.**, Meng, L.*, Zhang, B., Gao, K., & Sang, H. (2025). <span style="color: #00008B;">Imitation Learning-Assisted Evolutionary Algorithm for Energy-Efficient Flexible Job Shop Scheduling Problem with Automated Guided Vehicles.</span> <i style="color: #8B0000;">IEEE Transactions on Evolutionary Computation</i> (SCI Q1, IF=12)
 
-[2] Meng, L.*, **Cheng, W.***, Zhang, C., Gao, K., Zhang, B., & Ren, Y. (2025). <span style="color: #2c3e50;">Novel CP Models and CP-Assisted Meta-Heuristic Algorithm for Flexible Job Shop Scheduling Benchmark Problem with Multi-AGV.</span> <span style="color: #2980b9;">IEEE Transactions on Systems, Man, and Cybernetics: Systems</span> (SCI Q1, IF=8.7) — (Co-Corresponding Author)
+[2] Meng, L.*, **Cheng, W.***, Zhang, C., Gao, K., Zhang, B., & Ren, Y. (2025). <span style="color: #00008B;">Novel CP Models and CP-Assisted Meta-Heuristic Algorithm for Flexible Job Shop Scheduling Benchmark Problem with Multi-AGV.</span> <i style="color: #8B0000;">IEEE Transactions on Systems, Man, and Cybernetics: Systems</i> (SCI Q1, IF=8.7)
 
-[3] **Cheng, W.**, Zhang, C., Meng, L.*, Gao, K., Zhang, B., & Sang, H. (2025). <span style="color: #2c3e50;">A Cooperative Agent Deep Reinforcement Learning Framework for Solving Flexible Job Shop Scheduling Problem with Automated Guided Vehicles.</span> <span style="color: #2980b9;">Expert Systems with Applications</span>, 128142 (SCI Q1, IF=7.5) — (First Author)
+[3] **Cheng, W.**, Zhang, C., Meng, L.*, Gao, K., Zhang, B., & Sang, H. (2025). <span style="color: #00008B;">A Cooperative Agent Deep Reinforcement Learning Framework for Solving Flexible Job Shop Scheduling Problem with Automated Guided Vehicles.</span> <i style="color: #8B0000;">Expert Systems with Applications</i>, 128142 (SCI Q1, IF=7.5)
 
-[4] **Cheng, W.**, Zhang, C., Meng, L.*, Gao, K., Zhang, B., & Sang, H. (2025). <span style="color: #2c3e50;">Deep Reinforcement Learning for Solving Efficient and Energy-Saving Flexible Job Shop Scheduling Problem with Multi-AGV.</span> <span style="color: #2980b9;">Computers & Operations Research</span>, 181, 107087. (SCI Q1, IF=4.3) — (First Author)
+[4] **Cheng, W.**, Zhang, C., Meng, L.*, Gao, K., Zhang, B., & Sang, H. (2025). <span style="color: #00008B;">Deep Reinforcement Learning for Solving Efficient and Energy-Saving Flexible Job Shop Scheduling Problem with Multi-AGV.</span> <i style="color: #8B0000;">Computers & Operations Research</i>, 181, 107087. (SCI Q1, IF=4.3)
 
-[5] **Cheng, W.**, Meng, L.*, Zhang, B., Gao, K., & Sang, H. (2025). <span style="color: #2c3e50;">Collaborative Multi-CP Model and Meta-Feedback Learning-Assisted Matheuristic for Solving the Flexible Job Shop Scheduling Problem with Sequence-Dependent Setup Times.</span> <span style="color: #2980b9;">Swarm and Evolutionary Computation</span>, 99, 102173. (SCI Q1, IF=8.5) — (First Author)
+[5] **Cheng, W.**, Meng, L.*, Zhang, B., Gao, K., & Sang, H. (2025). <span style="color: #00008B;">Collaborative Multi-CP Model and Meta-Feedback Learning-Assisted Matheuristic for Solving the Flexible Job Shop Scheduling Problem with Sequence-Dependent Setup Times.</span> <i style="color: #8B0000;">Swarm and Evolutionary Computation</i>, 99, 102173. (SCI Q1, IF=8.5)
 
-[6] **Cheng, W.**, Meng, L.*, Zhang, Y., Zhang, C.*, Zhang, B., Sang, H. (2025). <span style="color: #2c3e50;">A novel Constraint Programming-Assisted evolutionary algorithm with deep Q-network for flexible job shop scheduling problem with robot constraints.</span> <span style="color: #2980b9;">Computers & Industrial Engineering</span>. (SCI Q1, IF=6.5) — (First Author)
+[6] **Cheng, W.**, Meng, L.*, Zhang, Y., Zhang, C.*, Zhang, B., Sang, H. (2025). <span style="color: #00008B;">A novel Constraint Programming-Assisted evolutionary algorithm with deep Q-network for flexible job shop scheduling problem with robot constraints.</span> <i style="color: #8B0000;">Computers & Industrial Engineering</i>. (SCI Q1, IF=6.5)
 
 
 
