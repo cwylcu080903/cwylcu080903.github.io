@@ -14,8 +14,8 @@ Educations
 - **09/2025 – Present**: Ph.D.Eng. student in School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan
 - **09/2021 – 07/2025**: B.Eng. student in School of Computer Science, Liaocheng University, Liaocheng
 
-## Journal Publications
-
+Journal Publications
+======
 ### 2026
 - **[1]** **Cheng, W.**, Zhang, C., Meng, L.*, Zhang, B. and Sang, H., 2026. <span style="color: #00008B;">A matheuristic and imitation learning-driven evolutionary algorithm for the flexible job shop scheduling benchmark problem with discrete operation sequence flexibility.</span> <i style="color: #8B0000;">International Journal of Production Research</i>, pp.1-24.(SCI Q1, IF=7.3)
 
