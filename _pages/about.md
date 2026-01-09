@@ -16,6 +16,8 @@ Educations
 
 Journal Publications
 ======
+---2026---<br>
+- **[1]** **Cheng, W.**, Zhang, C., Meng, L.*, Zhang, B. and Sang, H., 2026. <span style="color: #00008B;">A matheuristic and imitation learning-driven evolutionary algorithm for the flexible job shop scheduling benchmark problem with discrete operation sequence flexibility.</span> <i style="color: #8B0000;">International Journal of Production Research</i>, pp.1-24.(SCI Q1, IF=7.3)
 ---2025---<br>
 - **[1]** **Cheng, W.**, Meng, L.*, Zhang, B., Gao, K., & Sang, H. (2025). <span style="color: #00008B;">Imitation Learning-Assisted Evolutionary Algorithm for Energy-Efficient Flexible Job Shop Scheduling Problem with Automated Guided Vehicles.</span> <i style="color: #8B0000;">IEEE Transactions on Evolutionary Computation</i> (SCI Q1, IF=12)
 
