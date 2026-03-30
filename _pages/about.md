@@ -19,7 +19,7 @@ Journal Publications
 ### 2026
 - **[1]** **Cheng, W.**, Zhang, C., Meng, L.*, Zhang, B., & Sang, H. (2026). <span style="color: #00008B;">A matheuristic and imitation learning-driven evolutionary algorithm for the flexible job shop scheduling benchmark problem with discrete operation sequence flexibility.</span> <i style="color: #8B0000;">International Journal of Production Research</i> (SCI Q1, IF=7.3)
 - **[2]** **Cheng, W.**, Zhang, C., Meng, L.*, Ren, Y., Zhang B., & Zhang, M. (2026). <span style="color: #00008B;">Enhanced Logic-Based Benders Decomposition Approaches for Flexible Job Shop Scheduling Benchmark Problem with Discrete Operation Sequence Flexibility.</span> <i style="color: #8B0000;">Chinese Journal of Mechanical Engineering</i> (SCI Q1, IF=4.5)
-- 
+ 
 ### 2025
 - **[1]** **Cheng, W.**, Meng, L.*, Zhang, B., Gao, K., & Sang, H. (2025). <span style="color: #00008B;">Imitation Learning-Assisted Evolutionary Algorithm for Energy-Efficient Flexible Job Shop Scheduling Problem with Automated Guided Vehicles.</span> <i style="color: #8B0000;">IEEE Transactions on Evolutionary Computation</i> (SCI Q1, IF=12)
 
