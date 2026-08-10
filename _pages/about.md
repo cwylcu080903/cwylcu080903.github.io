@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-&nbsp;I was born in Jining city, Shandong province, China in 2002. I received UG degree in Network Engineering from <a href="https://www.lcu.edu.cn/" style="color: #00008B;">Liaocheng University</a>, Liaocheng, China in 2025. In 2024, I obtained exemption from the postgraduate entrance examination. Currently, I am pursuing my PhD degree in School of Mechanical Science and Engineering, <a href="https://www.hust.edu.cn/" style="color: #00008B;">Huazhong University of Science and Technology</a>.  My PhD.'s supervisor is <a href="https://mse.hust.edu.cn/info/1143/1376.htm" style="color: #00008B;">Prof. Chaoyong Zhang</a>. My undergraduate supervisor is <a href="https://cs.lcu.edu.cn/xygk/szdw/431879.htm" style="color: #00008B;">Assoc Prof. Leilei Meng</a>. 
+&nbsp;I was born in Jining city, Shandong province, China in 2002. I received B.Eng.degree in Network Engineering from <a href="https://www.lcu.edu.cn/" style="color: #00008B;">Liaocheng University</a>, Liaocheng, China in 2025. In 2024, I obtained exemption from the postgraduate entrance examination. Currently, I am pursuing my Ph.D.Eng. degree in School of Mechanical Science and Engineering, <a href="https://www.hust.edu.cn/" style="color: #00008B;">Huazhong University of Science and Technology</a>.  My Ph.D's supervisor is <a href="https://mse.hust.edu.cn/info/1143/1376.htm" style="color: #00008B;">Prof. Chaoyong Zhang</a>. My B.S's supervisor is <a href="https://cs.lcu.edu.cn/xygk/szdw/431879.htm" style="color: #00008B;">Assoc Prof. Leilei Meng</a>. 
 
 Educations
 ======
-- **09/2025 – Present**: PhD Student in School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan
-- **09/2021 – 07/2025**: UG Student in School of Computer Science, Liaocheng University, Liaocheng
+- **09/2025 – Present**: Ph.D.Eng. Student in School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan
+- **09/2021 – 07/2025**: B.Eng. Student in School of Computer Science, Liaocheng University, Liaocheng
 
 Journal Publications
 ======
@@ -23,6 +23,7 @@ Journal Publications
 - **[5]** **Cheng, W.**, Meng, L., Zhang, C.*, & Zhu, C. (2026). <span style="color: #00008B;">Enhanced Logic-based Benders Decomposition and Branch-and-Check Frameworks for Distributed Job Shop Scheduling Problem with Discrete Operation Sequence Flexibility. </span> <i style="color: #8B0000;"> IEEE Transactions on Automation Science and Engineering</i> (SCI Q1, IF=7.9)
 - **[6]** **Cheng, W.**, Shen, W., Zhang, C.*, & Meng, L. (2026). <span style="color: #00008B;">Knowledge Graph-Enhanced Evolutionary Multitasking Matheuristic Algorithm for Job Shop Scheduling Problem with Discrete Operation Sequence Flexibility. </span> <i style="color: #8B0000;"> Journal of Manufacturing Systems</i> (SCI Q1, IF=14.9)
 - **[7]** Liu, L., Zhang, J., **Cheng, W.**\*, Meng, L.*, & Gao, F. (2026). <span style="color: #00008B;">DGEvo: Automatic heuristic design via dual-feature-guided evolution with large language models for job shop scheduling problem with fixed preventive maintenance.</span> <i style="color: #8B0000;">Swarm and Evolutionary Computation</i> (SCI Q1, IF=9.6) — (Co-Corresponding Author)
+- **[8]** Liu, L., Liu, X., **Cheng, W.**\*, & Meng, L.*. (2026). <span style="color: #00008B;">An enhanced rank-partitioned multi-strategy collaborative optimization framework for solving global and engineering optimization problems.</span> <i style="color: #8B0000;">Expert Systems with Applications</i> (SCI Q1, IF=9.4) — (Co-Corresponding Author)
  
 ### 2025
 - **[1]** **Cheng, W.**, Meng, L.*, Zhang, B., Gao, K., & Sang, H. (2025). <span style="color: #00008B;">Imitation Learning-Assisted Evolutionary Algorithm for Energy-Efficient Flexible Job Shop Scheduling Problem with Automated Guided Vehicles.</span> <i style="color: #8B0000;">IEEE Transactions on Evolutionary Computation</i> (SCI Q1, IF=12)
