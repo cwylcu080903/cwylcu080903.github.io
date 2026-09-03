@@ -8,12 +8,13 @@ redirect_from:
 ---
 &nbsp; I was born in Jining, Shandong Province, China, in 2002. I received my B.Eng. degree in Network Engineering from <a href="https://www.lcu.edu.cn/" style="color: #00008B;">Liaocheng University</a>, Liaocheng, China, in 2025. In 2024, I obtained an exemption from the postgraduate entrance examination. Currently, I am pursuing my Ph.D.Eng. degree at the School of Mechanical Science and Engineering, <a href="https://www.hust.edu.cn/" style="color: #00008B;">Huazhong University of Science and Technology</a>. I am also a Research Assistant in the Department of Construction Management and Intelligence at The Hong Kong Polytechnic University, under the supervision of <a href="https://www.polyu.edu.hk/ppoffice/senior-management-team/avpgp/">Prof. Geoffrey Qiping Shen</a>. My Ph.D. supervisor is <a href="https://mse.hust.edu.cn/info/1143/1376.htm" style="color: #00008B;">Prof. Chaoyong Zhang</a>. My B.Eng. supervisor is <a href="https://cs.lcu.edu.cn/xygk/szdw/431879.htm" style="color: #00008B;">Assoc. Prof. Leilei Meng</a>.
 
-Educations
+🎓 Educations
 ======
+- **09/2026 – Present**: RA in Department of Construction Management and Intelligence, The Hong Kong Polytechnic University, Hong Kong
 - **09/2025 – Present**: Ph.D.Eng. Student in School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan
 - **09/2021 – 07/2025**: B.Eng. Student in School of Computer Science, Liaocheng University, Liaocheng
 
-Journal Publications
+📚 Journal Publications (First/Corresponding Author)
 ======
 ### 2026
 - **[1]** **Cheng, W.**, Zhang, C., Meng, L.*, Zhang, B., & Sang, H. (2026). <span style="color: #00008B;">A matheuristic and imitation learning-driven evolutionary algorithm for the flexible job shop scheduling benchmark problem with discrete operation sequence flexibility.</span> <i style="color: #8B0000;">International Journal of Production Research</i> (SCI Q1, IF=7.3)
