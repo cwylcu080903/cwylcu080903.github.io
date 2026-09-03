@@ -2,6 +2,7 @@
 permalink: /zh/
 title: "🎉 欢迎！👋"
 author_profile: true
+author: WeiyaoChengCN
 ---
 
 <div style="text-align: right;">
