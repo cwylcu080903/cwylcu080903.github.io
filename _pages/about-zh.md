@@ -3,11 +3,6 @@ permalink: /zh/
 title: "🎉 欢迎！👋"
 author_profile: true
 ---
----
-permalink: /zh/
-title: "🎉 欢迎！👋"
-author_profile: true
----
 
 <div style="text-align: right;">
 <a href="/" style="color: #00008B;">English</a> | <b>中文</b>
