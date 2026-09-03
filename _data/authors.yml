@@ -1,13 +1,13 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+WeiyaoChengCN:
+  avatar: "profile.png"
+  name: "程伟耀"
+  bio: "博士研究生，华中科技大学"
+  location: "武汉，中国"
+  googlescholar: "https://scholar.google.com/citations?user=CGvT1lkAAAAJ&hl=en"
+  researchgate: "https://www.researchgate.net/profile/Weiyao-Cheng?ev=hdr_xprf"
+  orcid: "https://orcid.org/0009-0003-7760-1015"
 
 Name2 Name2:
   name        : "Name2 Name2"
