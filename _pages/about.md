@@ -13,7 +13,7 @@ redirect_from:
 
 🎓 Educations
 ======
-- **09/2026 – Present**: RA in Department of Construction Management and Intelligence, The Hong Kong Polytechnic University, Kowloon
+- **09/2026 – Present**: RA in Department of Construction Management and Intelligence, The Hong Kong Polytechnic University, Hong Kong
 - **09/2025 – Present**: Ph.D.Eng. Student in School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan
 - **09/2021 – 06/2025**: B.Eng. Student in School of Computer Science, Liaocheng University, Liaocheng
 
