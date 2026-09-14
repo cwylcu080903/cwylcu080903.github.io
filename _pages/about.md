@@ -15,15 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-`许志伟`博士现任武汉科技大学计算机科学与技术学院、湖北省智能信息处理与实时工业系统重点实验室讲师。2017年于武汉科技大学获信息安全专业学士学位，2022年于武汉科技大学获控制科学与工程专业博士学位，并于2023年3月留校任职。本硕博士阶段均师从`张凯教授`。张凯教授现任武汉科技大学研究生院院长、计算机科学与技术学院院长，并担任湖北省智能信息处理与实时工业系统重点实验室主任。2025年3月至9月，`许志伟博士`作为访问学者赴华中科技大学人工智能与自动化学院开展学术访问与合作研究，合作导师为`潘林强教授`。
-
-`许志伟`博士为*IEEE*、*CCF*、*ACM*、*CAAI*、*CIE*、*CAA*、*IEEE-SMC*、*IEEE-CIS*、*ACM-SIGEVO*会员、*中国人工智能学会青年工作委员会委员*、*中国仿真学会智能优化与调度专委会委员*、*中国仿真学会资源规划仿真与决策专委会*、*湖北省运筹学会监事*。CSDN人工智能领域优质创作者，博客专家。获得2019年硕士研究生国家奖学金与2021年，2022年博士研究生国家奖学金。近期在约束多目标优化、高维多目标优化以及多目标交通规划方面取得了一系列新进展新突破。参与国家自然科学基金两项，主持省自然科学基金青年项目一项，主持省教育厅青年项目一项。多项研究发表在国际顶级期刊*IEEE Transaction on Evolutionary Computation*， *IEEE Transaction on Cybernetics*，*IEEE Transactions on Intelligent Transportation Systems*，*Information Sciences*，*中国科学：信息科学* 以及 *Applied Soft Computing* 上。获2021年与2022年武汉计算机软件工程学会年会暨学术研讨会优秀研究生，2021年CCF武汉优秀博士生学术风采展示论坛一等奖。
-
-其为计算机和人工智能领域各大顶级期刊的审稿人包括但不限于： **IEEE Transactions on Evolutionary Computation**, **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, **IEEE Transactions on Cybernetics**, **Information Sciences**, **Applied Soft Computing**, **Robotics and Computer-Integrated Manufacturing**, **Neural Computing and Applications**, **Engineering Applications of Artificial Intelligence**, **Expert Systems with Applications**, **Swarm and Evolutionary Computation**, and **Journal of Membrane Computing**.
-
-其为以下国际会议的审稿人，包括但不限于： **IEEE Congress on Evolutionary Computation (IEEE CEC)**, **IEEE Symposium Series on Computational Intelligence (SSCI)**, **IEEE Conference on Artificial Intelligence (IEEE CAI)** and the **International Conference on Bio-inspired Computing: Theories and Applications (BIC-TA)**.
-
-其担任 **19th International Conference on Bio-inspired Computing: Theories and Applications (BIC-TA 2024)** 以及 **20th International Conference on Bio-inspired Computing: Theories and Applications (BIC-TA 2025)** 的Session chair, 以下国际会议的PC **2025 Asia Conference on Artificial Intelligence Technology (ACAIT2025)** and **The International Conference on Machine Intelligence and Nature-inspired Computing (MIND 2025)**. <a href='https://scholar.google.com/citations?user=_Lkioz8AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
+程伟耀，男，2002年9月生，山东济宁人，研究方向为生产调度。谷歌学术引用470余次，h指数9。总计发表SCI论文23篇，其中以第一作者发表SCI论文12篇（新锐1区5篇、新锐2区6篇、新锐3区1篇、1篇入选 ESI 热点、高被引），以共同通讯作者发表SCI论文3篇（均为新锐1区）；授权发明专利 3 项。获本科生国家奖学金、 SWEVO Best Paper Award、 山东省人工智能科学技术三等奖及第八届智能优化与调度学术会议优秀 Poster 奖，并担任RCIM、JCP、AEI等国际期刊审稿人。
 
 研究兴趣包括：
 - 神经组合优化
