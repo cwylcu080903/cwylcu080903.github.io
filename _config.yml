@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "许志伟"
-description              : "博士, 硕导"
-repository               : "jaywayxu/jaywayxu.github.io"
+title                    : "程伟耀"
+description              : "博士研究生"
+repository               : "cwylcu080903/cwylcu080903.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "许志伟"
+  name             : "程伟耀"
   avatar           : "/zh-cn/images/xzw.png"
-  bio              : "硕士研究生导师, 博士, 武汉科技大学"
+  bio              : "博士研究生, 华中科技大学"
   location         : "湖北武汉"
-  employer         : "计算机科学与技术学院"
+  employer         : "机械科学与工程学院"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=_Lkioz8AAAAJ&hl"
-  email            : "xuzhiwei@wust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Zhiwei-Xu-16"
+  googlescholar    : "https://scholar.google.com/citations?user=CGvT1lkAAAAJ"
+  email            : "weiyao_cheng@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Weiyao-Cheng"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jaywayxu"
+  github           : "cwylcu080903"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0003-3767-2049"
+  orcid            : "https://orcid.org/0009-0003-7760-1015"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
