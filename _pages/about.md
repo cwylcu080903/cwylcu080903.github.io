@@ -13,6 +13,6 @@ redirect_from:
 ## 学习经历
 [1] 2021.09-2025.06 [聊城大学](https://www.lcu.edu.cn/)，[人工智能与计算机学院](https://cs.lcu.edu.cn/)，学士，导师[孟磊磊副教授](https://cs.lcu.edu.cn/szdw/431879.htm)<br>
 [2] 2025.09-至今 [华中科技大学](https://www.hust.edu.cn/)，[机械科学与工程学院](https://mse.hust.edu.cn/)，博士研究生，导师[张超勇教授](https://mse.hust.edu.cn/info/1143/1376.htm)<br>
-[3] 2026.09-至今 [香港理工大学](https://www.polyu.edu.hk/)，[建设及环境学院](https://www.polyu.edu.hk/fce/)，研究助理，导师[沈岐平教授]([导师主页链接](https://www.polyu.edu.hk/ppoffice/senior-management-team/avpgp/?sc_lang=sc))<br>
+[3] 2026.09-至今 [香港理工大学](https://www.polyu.edu.hk/)，[建设及环境学院](https://www.polyu.edu.hk/fce/)，研究助理，导师[沈岐平教授](https://www.polyu.edu.hk/ppoffice/senior-management-team/avpgp/?sc_lang=sc))<br>
 
 
