@@ -7,22 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 个人资料
+程伟耀，男，2002年9月生，山东济宁人，研究方向为生产调度。谷歌学术引用470余次，h指数8。总计发表SCI论文23篇，其中以第一作者发表SCI论文12篇（新锐1区5篇、新锐2区6篇、新锐3区1篇、1篇入选 ESI 热点、高被引），以共同通讯作者发表SCI论文3篇（均为新锐1区）；授权发明专利3项。获本科生国家奖学金、 SWEVO Best Paper Award、 山东省人工智能科学技术三等奖及第八届智能优化与调度学术会议优秀 Poster 奖，并担任RCIM、JCP、AEI等国际期刊审稿人。
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-程伟耀，男，2002年9月生，山东济宁人，研究方向为生产调度。谷歌学术引用470余次，h指数9。总计发表SCI论文23篇，其中以第一作者发表SCI论文12篇（新锐1区5篇、新锐2区6篇、新锐3区1篇、1篇入选 ESI 热点、高被引），以共同通讯作者发表SCI论文3篇（均为新锐1区）；授权发明专利 3 项。获本科生国家奖学金、 SWEVO Best Paper Award、 山东省人工智能科学技术三等奖及第八届智能优化与调度学术会议优秀 Poster 奖，并担任RCIM、JCP、AEI等国际期刊审稿人。
-
-研究兴趣包括：
-- 神经组合优化
-- 调度和车辆路径规划
-- 演化计算
-- 多目标优化（超多目标、约束、多任务、多模态等）
-- DNA计算、编码、自组装
+## 学习经历
+[1]. 2021.09-2025.06 聊城大学，人工智能与计算机学院，学士
+[2]. 2025.09-至今 华中科技大学，机械科学与工程学院，博士研究生
+[3]. 2026.09-至今 香港理工大学，建设及环境学院，研究助理
 
 <span class='anchor' id='-Hl'></span>
 
