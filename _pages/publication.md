@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "My Page"
+title: "研究成果"
 permalink: /publication.html
 ---
 
@@ -9,41 +9,48 @@ permalink: /publication.html
 <span class='anchor' id='-Pub'></span>
 
 ---
-- `Zhiwei Xu(许志伟)` \*, 张凯, Javier Del Ser, 李密青, 徐新, 贺娟娟, 吴妮. Multi-Objective Optimization for Multimodal Multi-Objective Multi-Point Shortest Path Problem Considering Unforeseeable Road Eventualities. *IEEE Transactions on Intelligent Transportation Systems* , pp. 1–19, 2025 ((中科院1区期刊，Top期刊，~20%录用率，CCF-B， IF: 7.9)  
-[[Link]](https://ieeexplore.ieee.org/document/10959009/) [[Download]](/PDF/MMOEA-CDP.pdf) [[Code]](https://github.com/JaywayXu/MMOEA-CDP)
-- `Zhiwei Xu (许志伟)`, 刘小明, 张凯\*, 贺娟娟. Cultural transmission based multi-objective evolution strategy for evolutionary multitasking. *Information Sciences* , vol. 582, pp. 215–242, Jan. 2022. (中科院1区期刊，Top期刊，~20%录用率，IF：8.1，CCF-B)  
-[[Link]](https://www.sciencedirect.com/science/article/pii/S0020025521009282) [[Download]](/PDF/CT_EMT_MOES.pdf)
-- `Zhiwei Xu (许志伟)`, 张凯, 贺娟娟\*, 刘小明. A novel membrane-inspired evolutionary framework for multi-objective multi-task optimization problems. *Information Sciences* , vol. 596, pp. 236–263, Jun. 2022. (中科院1区期刊，Top期刊，~20%录用率，IF：8.1，CCF-B)  
-[[Link]](https://www.sciencedirect.com/science/article/pii/S002002552200216X) [[Download]](/PDF/EMT-MOMIEA.pdf)
-- `Zhiwei Xu (许志伟)`\*, 徐佳丰, 张凯, 徐新, 贺娟娟, 吴妮, Decision Variable Classification based Multi-objective Multifactorial Memetic Algorithm for Multi-objective Multi-task Optimization Problem. *Applied Soft Computing* , vol. 152, p. 111232, Feb. 2024. (中科院1区期刊，Top期刊，IF:8.7, CAA-B)  
-[[Link]](https://www.sciencedirect.com/science/article/pii/S1568494624000061) [[Download]](/PDF/HMOMFMA.pdf)
-- `Zhiwei Xu (许志伟)`\*, 张凯. Multiobjective multifactorial immune algorithm for multiobjective multitask optimization problems. *Applied Soft Computing* , vol. 107, p. 107399, Aug. 2021. (中科院1区期刊，Top期刊，IF:8.7, CAA-B)  
-[[Link]](https://www.sciencedirect.com/science/article/pii/S1568494621003227) [[Download]](/PDF/MOMFIA.pdf)
-- 张凯 `Zhiwei Xu(许志伟)`, 谢胜利, Gary G. Yen\*. Evolution Strategy-Based Many-Objective Evolutionary Algorithm Through Vector Equilibrium. *IEEE Transactions on Cybernetics* , vol. 51, no. 11, pp. 5455–5467, Nov. 2021. (学生排序第二导师第一，*IEEE Transactions on Cybernetics*，中科院1区期刊，Top期刊，IF:11.8，CCF-B)  
-[[Link]](https://ieeexplore.ieee.org/document/8955947/) [[Download]](/PDF/MaOES.pdf)[[Code]](https://github.com/MaOEA/MaOES)
-- 张凯, `Zhiwei Xu(许志伟)`, Gary G. Yen\*, 张凌. Two-Stage Multi-Objective Evolution Strategy for Constrained Multi-Objective Optimization. *IEEE Transactions on Evolutionary Computation* , vol. 28, no. 1, pp. 17–31, Feb. 2024 (学生排序第二导师第一，*IEEE Transactions on Evolutionary Computation*，中科院1区期刊，Top期刊，IF:14.3，CCF-B)  
-[[Link]](https://ieeexplore.ieee.org/document/9869698) [[Download]](/PDF/CMOES.pdf)[[Code]](https://github.com/MaOEA/CMOES)
-- 贺娟娟, 杨倩, `许志伟`, 张凯, 张兴义, 葛明峰\*. 基于全局密度更新策略的两阶段多模态多目标进化算法. *中国科学：信息科学*, 2024. (CCF-A)  
-[[Link]](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0294) [[Download]](/PDF/SSI2024.pdf)
-- 张凯, 申超楠, Gary G. Yen\*, `Zhiwei Xu(许志伟)`, 贺娟娟. Two-Stage Double Niched Evolution Strategy for Multimodal Multiobjective Optimization. *IEEE Transactions on Evolutionary Computation* , vol. 25, no. 4, pp. 754–768, Aug. 2021. (排序第四，*IEEE Transactions on Evolutionary Computation*，中科院1区期刊，Top期刊，IF:14.3，CCF-B)  
-[[Link]](https://ieeexplore.ieee.org/document/9372341) [[Download]](/PDF/DN-MMOES.pdf)[[Code]](https://github.com/MaOEA/DN-MMOES)
-- 张凯, 陈彬, `Zhiwei Xu(许志伟)`\*. 基于多目标进化策略算法的DNA核酸编码设计. *电子与信息学报* , 2020, 42(6): 1365-1373. (排序第三通讯作者，电子与信息学报)  
-[[Link]](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT190869) [[Download]](/PDF/MOES_DNA.pdf)
-- `Zhiwei Xu(许志伟)`, 张凯\*, 徐新, 贺娟娟. A Fireworks Algorithm Based on Transfer Spark for Evolutionary Multitasking. *Frontiers in Neurorobotics* , vol. 13, p. 109, Jan. 2020.  
-[[Link]](https://www.frontiersin.org/articles/10.3389/fnbot.2019.00109) [[Download]](/PDF/MTO-FWA.pdf)
-- `Zhiwei Xu(许志伟)`\*, 吴屏姗, 何诺飘, 金淑婷, 贺娟娟, 张凯. A Knee Solution-Based Membrane-Inspired Evolutionary Algorithm for Multi-objective Multi-task Optimization. Bio-Inspired Computing: Theories and Applications (BICTA-2024), Linqiang Pan, Ting Wu, and Jianqing Lin, Eds., Singapore: Springer Nature, 2025, pp. 165–176.  
-[[Link]](https://link.springer.com/chapter/10.1007/978-981-96-9582-9_12) [[Download]](/PDF/BICTA_2024.pdf)
-- Shuting. Jin, Huaze Long, Anqi Huang, Jianming Wang, Xuan Yu, `Zhiwei Xu(许志伟)`, Junlin Xu. Accurate prediction of synergistic drug combination using a multi-source information fusion framework. *BMC Biology* , vol. 23, no. 1, p. 200, Jul. 2025.  
-[[Link]](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02302-y) [[Download]](/PDF/BMC2025-MultiSyn.pdf)
-- 龙华泽, 金淑婷, 许俊林, `Zhiwei Xu(许志伟)`, A Conformation Enhanced Graph Attention Framework for Predicting Synergistic Drug Combinations. *2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* , Dec. 2025, pp. 1104–1111.  
-[[Link]](https://ieeexplore.ieee.org/abstract/document/11357183) [[Download]](/PDF/BIBM25ConGraSyn.pdf)
-- `Zhiwei Xu(许志伟)`, 刘小明, 张凯\*. Mechanical Properties Prediction for Hot Rolled Alloy Steel Using Convolutional Neural Network. *IEEE Access* , vol. 7, pp. 47068–47078, 2019.  
-[[Link]](https://ieeexplore.ieee.org/document/8682144) [[Download]](/PDF/ACCESS.pdf)
-- 赵浩志, `Zhiwei Xu(许志伟)`\*, 张凯\*. Reference Point Based Multi-objective Evolutionary Algorithm for DNA Sequence Design. *International Conference on Bio-Inspired Computing: Theories and Applications*, 2019, pp. 178–188.  
-[[Link]](http://link.springer.com/10.1007/978-981-15-3415-7_14) [[Download]](/PDF/BICTA_DNA.pdf)
-- 徐浩, `Zhiwei Xu(许志伟)`\*, 张凯\*. Mechanical Properties Prediction for Hot Roll Steel Using Convolutional Neural Network. *International Conference on Bio-Inspired Computing: Theories and Applications*, 2019, pp. 565–575.  
-[[Link]](http://link.springer.com/10.1007/978-981-15-3415-7_47) [[Download]](/PDF/BICTA_CNN.pdf)
-- 张凯\*, 刘芳, 申超楠, `Zhiwei Xu(许志伟)`. Multi-population Evolutionary Algorithm for Multimodal Multobjective Optimization. *International Conference on Intelligent Autonomous Systems*, 2021, pp. 199–204.  
-[[Link]](https://ieeexplore.ieee.org/document/9527712) [[Download]](/PDF/ICoIAS.pdf)
-- 李凡, 张凯\*, 申超楠, `Zhiwei Xu(许志伟)`. Solving Multimodal Multi-Objective Problems with Local Pareto Front using a Population Clustering Mechanism. *International Conference on Machine Learning and Soft Computing*, 2023, pp. 34-39.  
-[[Link]](https://dl.acm.org/doi/10.1145/3583788.3583793) [[Download]](/PDF/ICMLSC.pdf)
+
+### 2026
+
+#### 第一作者
+
+[1]. `Cheng, W.`, Zhang, C., Meng, L.\*, Zhang, B., & Sang, H. (2026). A matheuristic and imitation learning-driven evolutionary algorithm for the flexible job shop scheduling benchmark problem with discrete operation sequence flexibility. *International Journal of Production Research*.
+
+[2]. `Cheng, W.`, Zhang, C., Meng, L.\*, Ren, Y., Zhang, B., & Zhang, M. (2026). Enhanced Logic-Based Benders Decomposition Approaches for Flexible Job Shop Scheduling Benchmark Problem with Discrete Operation Sequence Flexibility. *Chinese Journal of Mechanical Engineering*.
+
+[3]. `Cheng, W.`, Zhang, C., Meng, L.\*, Ren, Y., & Zhang, B. (2026). Multi-threaded constraint programming-assisted space perception evolutionary algorithm for energy-efficient flexible job shop scheduling problem with sequence-dependent setup times. *Computers & Operations Research*.
+
+[4]. `Cheng, W.`, Zhang, C., Meng, L.\*, Sang, H., & Zhang, B. (2026). Imitation Learning and Constraint Programming-assisted Evolutionary Algorithm for Resource-Constrained Flexible Job Shop Scheduling Problem with Sequence-Dependent Setup Times. *Tsinghua Science and Technology*.
+
+[5]. `Cheng, W.`, Meng, L., Zhang, C.\*, & Zhu, C. (2026). Enhanced Logic-Based Benders Decomposition and Branch-and-Check Frameworks for Distributed Job Shop Scheduling Problem with Discrete Operation Sequence Flexibility. *IEEE Transactions on Automation Science and Engineering*.
+
+[6]. `Cheng, W.`, Shen, W., Zhang, C.\*, & Meng, L. (2026). Knowledge Graph-Enhanced Evolutionary Multitasking Matheuristic Algorithm for Job Shop Scheduling Problem with Discrete Operation Sequence Flexibility. *Journal of Manufacturing Systems*.
+
+[7]. `Cheng, W.`, Yang, Y.\*, Meng, L.\*, & Wu, P. (2026). Diffusion and imitation learning-assisted memetic algorithm for energy-efficient hybrid flow shop scheduling problem with variable speed. *Computers & Operations Research*.
+
+
+#### 通讯作者
+
+[1]. Liu, L., Zhang, J., `Cheng, W.`\*, Meng, L.\*, & Gao, F. (2026). DGEvo: Automatic heuristic design via dual-feature-guided evolution with large language models for job shop scheduling problem with fixed preventive maintenance. *Swarm and Evolutionary Computation*.
+
+[2]. Liu, L., Liu, X., `Cheng, W.`\*, & Meng, L.\* (2026). An enhanced rank-partitioned multi-strategy collaborative optimization framework for solving global and engineering optimization problems. *Expert Systems with Applications*.
+
+
+### 2025
+
+#### 第一作者
+
+[1]. `Cheng, W.`, Meng, L.\*, Zhang, B., Gao, K., & Sang, H. (2025). Imitation Learning-Assisted Evolutionary Algorithm for Energy-Efficient Flexible Job Shop Scheduling Problem with Automated Guided Vehicles. *IEEE Transactions on Evolutionary Computation*.
+
+[2]. `Cheng, W.`, Zhang, C., Meng, L.\*, Gao, K., Zhang, B., & Sang, H. (2025). A Cooperative Agent Deep Reinforcement Learning Framework for Solving Flexible Job Shop Scheduling Problem with Automated Guided Vehicles. *Expert Systems with Applications*.
+
+[3]. `Cheng, W.`, Zhang, C., Meng, L.\*, Gao, K., Zhang, B., & Sang, H. (2025). Deep Reinforcement Learning for Solving Efficient and Energy-Saving Flexible Job Shop Scheduling Problem with Multi-AGV. *Computers & Operations Research*.
+
+[4]. `Cheng, W.`, Meng, L.\*, Zhang, B., Gao, K., & Sang, H. (2025). Collaborative Multi-CP Model and Meta-Feedback Learning-Assisted Matheuristic for Solving the Flexible Job Shop Scheduling Problem with Sequence-Dependent Setup Times. *Swarm and Evolutionary Computation*.
+
+[5]. `Cheng, W.`, Meng, L.\*, Zhang, Y., Zhang, C.\*, Zhang, B., & Sang, H. (2025). A novel Constraint Programming-Assisted evolutionary algorithm with deep Q-network for flexible job shop scheduling problem with robot constraints. *Computers & Industrial Engineering*.
+
+
+#### 通讯作者
+
+[1]. Meng, L.\*, `Cheng, W.`\*, Zhang, C., Gao, K., Zhang, B., & Ren, Y. (2025). Novel CP Models and CP-Assisted Meta-Heuristic Algorithm for Flexible Job Shop Scheduling Benchmark Problem with Multi-AGV. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*.
