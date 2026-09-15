@@ -8,7 +8,20 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
   </head>
-
+  <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("a[href]").forEach(function (link) {
+      try {
+        const url = new URL(link.href, window.location.href);
+  
+        // 只处理本站链接
+        if (url.hostname === window.location.hostname) {
+          link.removeAttribute("target");
+        }
+      } catch (e) {}
+    });
+  });
+  </script>
   <body>
 
     {% include browser-upgrade.html %}
