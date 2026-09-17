@@ -21,7 +21,7 @@ permalink: /publication.html
 
 [5] **Cheng, W.**, Zhang, C., Meng, L.\*, Gao, K., Zhang, B., & Sang, H. (2025). A Cooperative Agent Deep Reinforcement Learning Framework for Solving Flexible Job Shop Scheduling Problem with Automated Guided Vehicles. <i style="color: #00008B;">Expert Systems with Applications</i> **(SCI, 新锐1区Top)**.
 
-[6] **Cheng, W.**, Meng, L., Zhang, C.\*, & Zhu, C. (2026). Enhanced Logic-Based Benders Decomposition and Branch-and-Check Frameworks for Distributed Job Shop Scheduling Problem with Discrete Operation sequence flexibility. <i style="color: #00008B;">IEEE Transactions on Automation Science and Engineering</i> **(SCI, 新锐2区, Top)**.
+[6] **Cheng, W.**, Meng, L., Zhang, C.\*, & Zhu, C. (2026). Enhanced Logic-Based Benders Decomposition and Branch-and-Check Frameworks for Distributed Job Shop Scheduling Problem with Discrete Operation sequence flexibility. <i style="color: #00008B;">IEEE Transactions on Automation Science and Engineering</i> **(SCI, 新锐2区Top)**.
 
 [7] **Cheng, W.**, Zhang, C., Meng, L.\*, Zhang, B., & Sang, H. (2026). A matheuristic and imitation learning-driven evolutionary algorithm for the flexible job shop scheduling benchmark problem with discrete operation sequence flexibility. <i style="color: #00008B;">International Journal of Production Research</i> **(SCI, 新锐2区Top)**.
 
