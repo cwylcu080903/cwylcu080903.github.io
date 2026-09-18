@@ -11,7 +11,7 @@ permalink: /publication.html
 ---
 
 ### 第一作者
-[1] **Cheng, W.**, Meng, L.\*, Zhang, B., Gao, K., & Sang, H. (2025). Imitation Learning-Assisted Evolutionary Algorithm for Energy-Efficient Flexible Job Shop Scheduling Problem with Automated Guided Vehicles. <i style="color: #00008B;">IEEE Transactions on Evolutionary Computation</i> **(SCI, 新锐1区Top)**.
+[1] `Cheng, W.`, Meng, L.\*, Zhang, B., Gao, K., & Sang, H. (2025). Imitation Learning-Assisted Evolutionary Algorithm for Energy-Efficient Flexible Job Shop Scheduling Problem with Automated Guided Vehicles. <i style="color: #00008B;">IEEE Transactions on Evolutionary Computation</i> **(SCI, 新锐1区Top)**.
 
 [2] **Cheng, W.**, Shen, W., Zhang, C.\*, & Meng, L. (2026). Knowledge Graph-Enhanced Evolutionary Multitasking Matheuristic Algorithm for Job Shop Scheduling Problem with Discrete Operation Sequence Flexibility. <i style="color: #00008B;">Journal of Manufacturing Systems</i> **(SCI, 新锐1区Top)**.
 
