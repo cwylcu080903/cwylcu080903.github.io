@@ -1,13 +1,10 @@
 # main links links
 main:
-  - title: "个人介绍"
-    url: "#about-me"
+- title: "个人介绍"
+  url: "/zh-cn/#about-me"
 
-  #- title: "亮点成果"
-  #  url: "highlight"
-
-  - title: "研究成果"
-    url: "#publication"
+- title: "研究成果"
+  url: "/zh-cn/publication"
     
   #- title: "科研项目"
   #  url: "project"
