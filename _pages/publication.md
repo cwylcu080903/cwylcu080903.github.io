@@ -32,3 +32,6 @@ permalink: /publication.html
 
 
 ## 授权专利
+1. 一种考虑周期性维修的柔性作业车间调度问题的建模方法，2024，发明专利，CN117270486B <span style="color: #D2691E; font-weight: bold;">（授权）</span>
+2. 一种带有机器人约束的柔性作业车间调度优化方法，2025，发明专利，CN120010425B <span style="color: #D2691E; font-weight: bold;">（授权）</span>
+3. 求解调整资源约束的柔性作业车间调度的优化方法，2026，发明专利，CN121599415B <span style="color: #D2691E; font-weight: bold;">（授权）</span>
